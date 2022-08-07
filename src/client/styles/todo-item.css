@@ -1,0 +1,7 @@
+.todo-text-content-completed {
+  text-decoration: line-through;
+}
+
+.todo-text-content-imcompleted {
+  text-decoration: none;
+}
